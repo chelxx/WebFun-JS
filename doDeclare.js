@@ -10,6 +10,7 @@ var string3 = "I stink!";
 var boo1 = 20;
 var boo2 = 30;
 
+
 console.log ("I love you:", num1); //Number #1
 console.log ("It's over...", num2); //Number #2
 console.log ("Write a million in numbers, please.", num3); //Number #3
@@ -19,3 +20,4 @@ console.log ("How are you today?", string2); //String #2
 console.log ("Are you good at algorithms?", string3); //String #3
 console.log (boo1 > 27); //Boolean #1
 console.log (boo2 > 27); //Boolean #
+console.log (i);
