@@ -20,4 +20,4 @@ console.log ("How are you today?", string2); //String #2
 console.log ("Are you good at algorithms?", string3); //String #3
 console.log (boo1 > 27); //Boolean #1
 console.log (boo2 > 27); //Boolean #
-console.log (i);
+console.log (i); //Undefined Variable
