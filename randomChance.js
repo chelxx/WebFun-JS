@@ -5,12 +5,12 @@ function randomChance (quarters) {
     for (var i = quarters; i > 0; i--) {
         if ((Math.floor (Math.random() * 100)) == 23) {
             var win = (Math.floor (Math.random() * 100) + 50);
-            console.log ("Yeah!" + (quarters + win));
+            console.log ("Yeah! You win " + (quarters + win) + " coins!");
             break;
         } else {
             console.log ("No!")
         }
-        console.log ("Quarters: " + i);
+        console.log ("Quarters left: " + i);
     }
 } 
-randomChance (100);
+randomChance (10);
