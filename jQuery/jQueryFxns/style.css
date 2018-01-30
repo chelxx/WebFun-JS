@@ -1,0 +1,26 @@
+* {
+    color: gray;
+}
+#header {
+    background-color: skyblue;
+    padding: 0 0 10px 0;
+}
+#main {
+    background-color: white;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+#footer {
+    background-color: skyblue;
+    height: 50px;
+}
+.linkhere {
+    width: 400px;
+}
+.search {
+    width: 50px;
+    text-align: center;
+}
+.title {
+    text-align: center;
+}

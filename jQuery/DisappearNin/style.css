@@ -1,0 +1,22 @@
+div {
+    background-color: skyblue;
+    width: 700px;
+    height: 380px;
+    text-align: center;
+}
+img {
+    width: 150px;
+    margin: 5px;
+    border: 2px solid lightcyan;
+}
+h2 {
+    color: palevioletred;
+    margin: 0 0 10px 240px;
+}
+button {
+    background-color: pink;
+    color: white;
+    height: 40px;
+    width: 75px;
+    margin: 0 0 0 310px;
+}
