@@ -1,18 +1,13 @@
 * {
     color: gray;
 }
-#header {
-    background-color: skyblue;
-    padding: 0 0 10px 0;
+button {
+    background-color: turquoise;
 }
 #main {
-    background-color: white;
+    background-color: pink;
     text-align: center;
     margin: 0 0 20px 0;
-}
-#footer {
-    background-color: skyblue;
-    height: 50px;
 }
 .linkhere {
     width: 400px;
