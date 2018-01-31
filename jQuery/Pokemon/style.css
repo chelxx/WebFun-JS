@@ -5,6 +5,7 @@ div#pokemon {
 div#dex {
     display: inline-block;
     position: absolute;
+    position: fixed;
     background-color: #CA2D36;
     border: 15px solid #48A0C2;
     color: white;
