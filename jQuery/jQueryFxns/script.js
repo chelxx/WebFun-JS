@@ -28,10 +28,10 @@ $(document).ready(function(){
         });
     });
     $('#append').click(function(){
-        $('p.pendtext').append("<b>THIS IS THE APPEND!</b>").css("color", "skyblue");;
+        $('p.pendtext').append("<b>THIS IS THE APPEND! </b>").css("color", "skyblue");;
     });
     $('#prepend').click(function(){
-        $('p.pendtext').prepend("<b>THIS IS THE PREPEND!</b>").css("color", "orange");
+        $('p.pendtext').prepend("<b>THIS IS THE PREPEND! </b>").css("color", "orange");
     });
     $('#html').click(function(){
         $( "div#test" ).html( "<b><h1>Mwahahaha! I changed your HTML document!<h1></b>");

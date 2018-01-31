@@ -3,11 +3,13 @@ body {
     color: #515151;
     text-align: center;
 }
+
 h1.red {
-    color: red;
-}
-h1.purple {
     color: purple;
+}
+.purple {
+    font-style: italic;
+    font-size: 100px;
 }
 img {
     width: 150px;
