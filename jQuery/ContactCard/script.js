@@ -5,7 +5,6 @@ $(document).ready(function(){
         var fName = $('form').find('input[name="firstname"]').val();
         var lName = $('form').find('input[name="lastname"]').val();
 
-
         $('div#table').append('<table><th class="flname">' + fName + " " + lName + '</th></table>').css("font-size", "50px").css("border", "5ox solid lavender");
     }); 
     $(document).on("click", ".flname", function(){
