@@ -1,0 +1,33 @@
+*{
+    color: palevioletred;
+}
+body {
+    width: 700px;
+}
+div#formdiv {
+    display: inline-block;
+    background-color: pink;
+    font-size: 20px;
+    width: 250px;
+    height: 270px;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+textarea {
+    width: 200px;
+    height: 100px;
+}
+
+div#table {
+    display: inline-block;
+    position: absolute;
+    padding: 15px;
+    margin: 0 0 0 15px;
+    width: 500px;
+}
+th {
+    border: 5px solid lavender;
+
+}
