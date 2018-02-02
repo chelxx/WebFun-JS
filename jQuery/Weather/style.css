@@ -1,0 +1,29 @@
+*{
+    color: gray;
+}
+#wrapper {
+    background-color: #fffadd;
+    width: 500px;
+    height: 500px;
+}
+#searchweather {
+    background-color: #c7e8e4;
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    padding: 20px 0 0 0;
+}
+form {
+    display: inline-block;
+}
+input {
+    width: 300px;
+    height: 25px;
+}
+div#input {
+    text-align: center;
+    font-size: 30px;
+}
+button {
+    height: 30px;
+}

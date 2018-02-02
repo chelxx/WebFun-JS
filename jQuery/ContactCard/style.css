@@ -14,12 +14,10 @@ div#formdiv {
     padding: 10px;
     text-align: center;
 }
-
 textarea {
     width: 200px;
     height: 100px;
 }
-
 div#table {
     display: inline-block;
     position: absolute;
@@ -29,5 +27,4 @@ div#table {
 }
 th {
     border: 5px solid lavender;
-
 }

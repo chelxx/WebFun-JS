@@ -8,7 +8,7 @@ $(document).ready(function(){
         $('div#table').append('<table><th class="flname">' + fName + " " + lName + '</th></table>').css("font-size", "50px").css("border", "5ox solid lavender");
     }); 
     $(document).on("click", ".flname", function(){
-        alert('you wanna see the other side?');
+        // alert('you wanna see the other side?');
         var descrip = $('form').find('textarea[name="description"]').val();
         $('div#table').append('<table><th class="flname">' + descrip + '</th></table>');
 
